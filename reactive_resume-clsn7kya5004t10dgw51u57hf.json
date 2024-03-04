@@ -1,0 +1,465 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://leo-raylan.neocities.org/NCC/",
+      "label": "Portfolio Website"
+    },
+    "name": "RANJITH KUMAR R",
+    "email": "ranjithkumar8478@gmail.com",
+    "phone": "8883871909",
+    "picture": {
+      "url": "https://storage.rxresu.me/clp9fzlaobogi9hun13s8kvb0/pictures/clp9kebu80v8dywwcesf6orkn.jpg",
+      "size": 128,
+      "effects": {
+        "border": true,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "About us",
+    "location": "3/497, sivan kovil south street",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 22,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "certifications",
+          "volunteer",
+          "references"
+        ],
+        [
+          "profiles",
+          "skills",
+          "interests",
+          "publications",
+          "awards",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "ditto",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.8,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [
+        {
+          "id": "zx17prryh5dfsej82utwi3h1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "",
+          "title": "National Cadet Corps",
+          "awarder": "CSM",
+          "summary": "Rank: Company Sergeant Major (CSM)",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "custom": {},
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "id": "eh4hx8jbv97auescxgql6w2a",
+          "name": "HTML",
+          "level": 4,
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "l7wjd0p2i37fwr1m1nv2ik82",
+          "name": "CSS",
+          "level": 4,
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "g04xsfz7yr0eep771zevy037",
+          "name": "JavaScript",
+          "level": 2,
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "ry5gukavaku7b8b16wr59zj8",
+          "visible": true,
+          "name": "Flutter",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "iwaz8bg6g0iozkiv7k8kxe0r",
+          "name": "Adobe Photoshop",
+          "level": 4,
+          "visible": false,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "la73qsi09m8oxlw68df7p5dz",
+          "visible": true,
+          "name": "Veeam Software",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "wfi4jbb4f1lyxs0ftnrokkyr",
+          "name": "C++",
+          "level": 1,
+          "visible": false,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "acs1tfcqy8av6opo1d7vr3i7",
+          "name": "Python",
+          "level": 1,
+          "visible": false,
+          "keywords": [],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "Open to expanding skills, gaining valuable real-world experience and to achieve organizational as well as personal goals. \n\nFlexible to adapt to new situations and environment.\n",
+      "visible": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "d4sejp2wlj8ebo894pu61txg",
+          "url": {
+            "href": "https://www.linkedin.com/in/ranjith-kumar-r-b248b2222/",
+            "label": ""
+          },
+          "icon": "linkedin",
+          "network": "LinkedIn",
+          "visible": true,
+          "username": "Ranjith Kumar R"
+        },
+        {
+          "id": "b1y5xvnahoouclx0z8y801xv",
+          "url": {
+            "href": "https://github.com/Ranjith-kumar27",
+            "label": ""
+          },
+          "icon": "github",
+          "network": "GitHub",
+          "visible": true,
+          "username": "Ranjith-kumar27"
+        },
+        {
+          "id": "aprxsegt6dj2y67fq7gmtk21",
+          "url": {
+            "href": "https://bit.ly/3JHH9XG",
+            "label": ""
+          },
+          "icon": "google",
+          "network": "Google Drive",
+          "visible": true,
+          "username": "Certificates"
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "ks60erp8zu8zzl5dywq17wlk",
+          "visible": true,
+          "name": "SignIQ - Smart Signage",
+          "description": "Using Flutter ",
+          "date": "Dec 2024",
+          "summary": "<p><strong>SignIQ </strong>is Smart Content Management System for Digital Signage in Mobile Application</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "fzsjhal87ualpidrunxj1xc5",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "April - May 2023",
+          "name": "Backup & Replication",
+          "summary": "Identification of risks associated with non-protected workloads in backup and restoration processes in Cloud environment",
+          "visible": true,
+          "keywords": [],
+          "description": "Using Veeam Tool"
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "k8krsxlotkn57qqauf0dqcxv",
+          "url": {
+            "href": "https://www.psgcas.ac.in/",
+            "label": "PSGCAS"
+          },
+          "area": "Computer Science",
+          "date": "2022-2024",
+          "score": "85%",
+          "summary": "<p></p>",
+          "visible": true,
+          "studyType": "M.Sc",
+          "institution": "PSG College of Arts and Science"
+        },
+        {
+          "id": "v3dfgtit5kh55pldz2g1jpyy",
+          "url": {
+            "href": "https://pmu.edu/",
+            "label": "PMIST"
+          },
+          "area": "Computer Science",
+          "date": " 2019-2022",
+          "score": "8.66",
+          "summary": "<p></p>",
+          "visible": true,
+          "studyType": "B.Sc.",
+          "institution": "Periyar Maniammai Institute of Science & Technology"
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [
+        {
+          "id": "gpf41ppot6kabwhiwlmy6vwx",
+          "name": "Photo Editing",
+          "visible": true,
+          "keywords": []
+        },
+        {
+          "id": "vez2ubu0gr3zxq4daa2un92m",
+          "name": "Drawing",
+          "visible": true,
+          "keywords": []
+        },
+        {
+          "id": "tpa6f4nn6nb86d1x3bg8vedb",
+          "name": "Music’s and Movies",
+          "visible": true,
+          "keywords": []
+        },
+        {
+          "id": "i1sqgw87stoh47471hpkfl6w",
+          "name": "Exercise & Workout",
+          "visible": true,
+          "keywords": []
+        }
+      ],
+      "columns": 1,
+      "visible": false
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Internship",
+      "items": [
+        {
+          "id": "fsn54f0miv74ayni5qor4f2o",
+          "visible": true,
+          "name": "Junior Flutter Developer",
+          "publisher": "AICTEC India",
+          "date": "Dec - March 2024",
+          "summary": "<p>Android - JSON - RESTful API - JWT</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "frkbc7bzdhir9p4ncz2quep3",
+          "visible": true,
+          "name": "Technical Intern",
+          "publisher": "F5 Clouds ",
+          "date": "March - April 2023",
+          "summary": "Backup & Restoration Process using Veeam Software",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "xiutebmknxx3y65l1ubvx2hp",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "October 2023",
+          "name": "Software Testing",
+          "issuer": "NPTEL",
+          "summary": "<p></p>",
+          "visible": true
+        },
+        {
+          "id": "gumfy0ndcz7afwwkqga4vvim",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "June 2023",
+          "name": "Veeam Sales Professional",
+          "issuer": "Veeam Software",
+          "summary": "VMSP - Public Cloud 2023",
+          "visible": true
+        },
+        {
+          "id": "g80h2bp5qc1lx1bdguooucx6",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "March 2023",
+          "name": "Python (Basic) ",
+          "issuer": "HackerRank",
+          "summary": "<p></p>",
+          "visible": true
+        },
+        {
+          "id": "hgncrrj72s6vzno1xk58smgz",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2022-12-14",
+          "name": "Game development using PyGame",
+          "issuer": "GUVI Geek Networks",
+          "summary": "",
+          "visible": false
+        },
+        {
+          "id": "ch50aea3mgvaig0u8ap0xjb8",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "April 2022",
+          "name": "Data Analytics with Python",
+          "issuer": "NSDC",
+          "summary": "",
+          "visible": true
+        },
+        {
+          "id": "yurepar56ggj35s2k9azqeqz",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2021-05-22",
+          "name": "Digital Marketing",
+          "issuer": "Google Digital - Unlocked",
+          "summary": "",
+          "visible": false
+        }
+      ],
+      "columns": 2,
+      "visible": true
+    }
+  }
+}
